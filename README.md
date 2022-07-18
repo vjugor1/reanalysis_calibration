@@ -11,7 +11,8 @@
 # Where to get weather stations data?
 - Demo variant can be donwloaded from here: https://drive.google.com/drive/folders/1yjibnllNTtVmP6w9fO3GByQM0wIiwiVv?usp=sharing
 - Put that into `data` folder
-
+- Download more stations from here (Раздел БД: Сроки, источник данных: SROK8C): http://meteo.ru/data/163-basic-parameters   
+- Do not download 'Архив с полными данными раздела: Srok8c.zip Размер архива: 3.82 GB'! There data inside is corrupted!
 # How to work with GEE?
 - Go to https://earthengine.google.com/
 - Register using google email account, declare 'eduational purposes'
