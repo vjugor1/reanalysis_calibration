@@ -8,6 +8,10 @@
 - Change model that is written in `src/models/WindCNN.py` 
 - Monitor performance using TensorBoard
 
+# Where to get weather stations data?
+- Demo variant can be donwloaded from here: https://drive.google.com/drive/folders/1yjibnllNTtVmP6w9fO3GByQM0wIiwiVv?usp=sharing
+- Put that into `data` folder
+
 # How to work with GEE?
 - Go to https://earthengine.google.com/
 - Register using google email account, declare 'eduational purposes'
